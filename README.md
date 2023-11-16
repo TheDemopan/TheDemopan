@@ -4,7 +4,4 @@ I'm currently a high school student. The repositories on my profile are personal
 
 Read more about me on suyash.net
 
-Contacts
-|---|---|
-|email|me@suyash.net|
-|Discord|@thedemopan|
+Contact me through email at me@suyash.net, or on Discord by messaging @thedemopan
