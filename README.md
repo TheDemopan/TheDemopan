@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm currently a high school student. The repositories on my profile are personal projects that I have put some time into
+I'm currently a student at Rutgers University majoring in Computer Science. The repositories on my profile are personal projects that I have put some time into
 
 Read more about me on suyash.net
 
